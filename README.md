@@ -11,7 +11,7 @@
   - 딥러닝 기반 공정 최적화 및 이상 탐지 연구
 
 ## 🔥Activities
--BITAmin (AI Club) — 16th| (Jul 2025 – present)
+- BITAmin (AI Club) — 16th| (Jul 2025 – present)
 
 ## 🛠️ Tech Stack
 - Python, Pandas, Scikit-learn, PyTorch
