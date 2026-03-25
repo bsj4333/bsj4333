@@ -10,7 +10,7 @@
 - **학부 연구생 (Undergraduate Researcher)** | 정지훈 교수님 연구실
   - 딥러닝 기반 공정 최적화 및 이상 탐지 연구
 
-##🔥Activities
+## 🔥Activities
 -BITAmin (AI Club) — 16th| (Jul 2025 – present)
 
 ## 🛠️ Tech Stack
